@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "373929955520",
+    "firebase_url": "https://fir-storage-b8fd3.firebaseio.com",
+    "project_id": "fir-storage-b8fd3",
+    "storage_bucket": "fir-storage-b8fd3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373929955520:android:6c67c1b1c5af7ce3",
+        "android_client_info": {
+          "package_name": "com.app.firebasestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373929955520-ct7t0t4402h2ig3mq767n2b213q48302.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwkE09OQUu1uY-WnOw-jZs9nGH6WwkhSk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
